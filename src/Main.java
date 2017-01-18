@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello World! ");
-        System.out.println("Hello from linux");
+        System.out.println("Hello whats New");
     }
 }
-// Comment add as a test 29/12/2016
+// Comment add as a test 18/01/2017
